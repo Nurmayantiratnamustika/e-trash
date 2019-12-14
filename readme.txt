@@ -1,4 +1,5 @@
-# E-Trash
+E-Trash
+=======
 
 E-Trash merupakan pengembangan projek tim Capella yang terdiri dari :
 - Mahatta Maulana
